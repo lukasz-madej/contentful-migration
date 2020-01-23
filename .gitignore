@@ -1,0 +1,17 @@
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.test
+
+# exports
+/exports/*
+!/exports/.gitkeep
+
+# errorss
+/errors/*
+!/errors/.gitkeep

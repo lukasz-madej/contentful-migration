@@ -1,0 +1,5 @@
+{
+  "exportPath": "./exports",
+  "errorPath": "./errors",
+  "dateTimeFormat": "DD-MM-YYYY_HH:mm:ss"
+}
